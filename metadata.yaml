@@ -1,5 +1,8 @@
 _repo: The-City-of-the-Sultan-and-Domestic-Manners-of-the-Turks-in-1836-Vol-2-of-2_51879
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51879-h/images/cover.jpg
 creator:
   author:
     agent_name: Pardoe, Miss (Julia)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4017
     wikipedia: http://en.wikipedia.org/wiki/Julia_Pardoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51879#The-City-of-the-Sultan-and-Domestic-Manners-of-the-Turks-in-1836-Vol-2-of-2
 gutenberg_issued: '2016-04-29'
 gutenberg_type: Text
 identifiers:
